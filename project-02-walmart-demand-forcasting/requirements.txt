@@ -1,0 +1,21 @@
+# Core Data Science & Data Manipulation
+pandas
+numpy
+pyarrow
+
+# Machine Learning & Modeling
+scikit-learn
+lightgbm
+joblib
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Statistical Analysis
+scipy
+statsmodels
+
+# Jupyter Environment
+jupyter
+notebook
