@@ -26,6 +26,11 @@ This project tackles the dual risks of overstocking (holding costs, waste) and u
 *   **Business Impact:** The analysis delivered a clear framework for moving from rule-of-thumb inventory management to an empirically optimized policy, highlighting that demand volatility is the most critical factor for allocating inventory capital.
 *   **Technologies:** Python, Pandas, LightGBM, Scikit-learn, NumPy, Matplotlib, Seaborn.
 
----
+### 3. Credit Risk & Loan Default Prediction
 
-### More projects will be added soon
+**Objective:** To minimize financial losses from defaulted loans by building an interpretable, end-to-end machine learning model.
+
+This project provides a complete workflow for a classic but critical business problem: credit risk. The solution moves from exploratory analysis and feature engineering to model development (Logistic Regression, Random Forest, XGBoost) and evaluation. Crucially, the final model is not just optimized for accuracy, but for business cost, by tuning the decision threshold to minimize the financial impact of false negatives (approving a bad loan). The project culminates in a fairness analysis and a detailed deployment and monitoring plan.
+
+*   **Business Impact:** The final Random Forest model is projected to reduce loan defaults by 80%, delivering an estimated **$2.1M in annual savings** with a first-year ROI of over 2800%.
+*   **Technologies:** Python, Pandas, Scikit-learn, XGBoost, SHAP (for model interpretability), Matplotlib.
