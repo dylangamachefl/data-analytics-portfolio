@@ -1,0 +1,10 @@
+Transformation,Details,Impact
+Missing Value Handling,"Converted ""NA"" strings to ""unknown"" category","Preserved information, no data loss"
+Feature Engineering - Numerical,"Created: monthly_payment, credit_duration_ratio, age_credit_ratio",+3 features
+Feature Engineering - Categorical,"Created: age_group, duration_category, credit_category",+3 features
+Feature Engineering - Binary Flags,Created: 6 binary risk indicator flags,+6 features
+Target Encoding,"Risk: good→0, bad→1",Binary target created
+Categorical Encoding,"Sex, Savings, Checking accounts encoded",Converted to numerical
+One-Hot Encoding,"Applied to: Housing, Purpose, age_group, duration_category, credit_category",Expanded to multiple binary columns
+Feature Scaling,StandardScaler applied to 6 numerical features,"Mean=0, Std=1"
+Train-Test Split,80-20 split with stratification (random_state=42),"Train: 800, Test: 200 samples"

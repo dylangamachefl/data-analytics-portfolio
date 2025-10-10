@@ -1,0 +1,6 @@
+scenario,category,amount
+Baseline,Default Losses,3243900.0
+Baseline,Operational,250000.0
+With Model,Default Losses,648779.9999999999
+With Model,Operational,40000.0
+With Model,Opportunity Cost,687500.0000000001

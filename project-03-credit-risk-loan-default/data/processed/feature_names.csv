@@ -1,0 +1,34 @@
+feature,index
+ID,0
+Age,1
+Job,2
+Credit amount,3
+Duration,4
+monthly_payment,5
+credit_duration_ratio,6
+age_credit_ratio,7
+high_credit_flag,8
+long_duration_flag,9
+young_applicant_flag,10
+no_checking_flag,11
+no_savings_flag,12
+financial_instability_flag,13
+Sex_encoded,14
+Saving_accounts_encoded,15
+Checking_account_encoded,16
+Housing_own,17
+Housing_rent,18
+Purpose_car,19
+Purpose_domestic appliances,20
+Purpose_education,21
+Purpose_furniture/equipment,22
+Purpose_radio/TV,23
+Purpose_repairs,24
+Purpose_vacation/others,25
+age_group_early_career,26
+age_group_mid_career,27
+age_group_senior,28
+duration_category_medium_term,29
+duration_category_long_term,30
+credit_category_medium,31
+credit_category_high,32

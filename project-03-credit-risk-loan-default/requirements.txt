@@ -1,0 +1,45 @@
+# Credit Risk & Loan Default Prediction Project
+# Requirements for all 4 notebooks (EDA, ETL, Modeling, Business Impact)
+
+# Core Data Science Libraries
+pandas>=2.0.0,<3.0.0
+numpy>=1.24.0,<2.0.0
+scikit-learn>=1.3.0,<2.0.0
+
+# Visualization Libraries
+matplotlib>=3.7.0,<4.0.0
+seaborn>=0.12.0,<1.0.0
+plotly>=5.14.0,<6.0.0
+
+# Statistical Analysis
+scipy>=1.10.0,<2.0.0
+
+# Machine Learning - Core
+scikit-learn>=1.3.0,<2.0.0
+
+# Machine Learning - Gradient Boosting
+xgboost>=2.0.0,<3.0.0
+lightgbm>=4.0.0,<5.0.0
+
+# Class Imbalance Handling
+imbalanced-learn>=0.11.0,<1.0.0
+
+# Model Interpretability
+shap>=0.42.0,<1.0.0
+
+# Jupyter Notebook Environment
+jupyter>=1.0.0,<2.0.0
+notebook>=7.0.0,<8.0.0
+ipykernel>=6.25.0,<7.0.0
+ipywidgets>=8.0.0,<9.0.0
+
+# Progress Bars (optional but nice)
+tqdm>=4.65.0,<5.0.0
+
+# Utilities
+python-dateutil>=2.8.0,<3.0.0
+pytz>=2023.3
+
+# Optional: For saving models
+joblib>=1.3.0,<2.0.0
+pickle5>=0.0.11;python_version<"3.8"
