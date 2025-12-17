@@ -20,9 +20,6 @@ The project successfully delivers a robust forecasting model and a clear framewo
 
 *   **Core Business Insight:** The analysis proved that the most critical factor for determining inventory levels is **demand volatility**, not just sales volume. This allows for a more intelligent allocation of capital—reducing inventory on predictable items and increasing it on unpredictable ones to minimize overall costs while protecting sales.
 
-![Safety Stock vs Sales Visualization](path/to/your/safety_stock_plot.png)
-*This key visualization demonstrates that items with similar sales volumes (x-axis) require vastly different safety stock levels (y-axis) based on their demand volatility (color/size of points).*
-
 ---
 
 ## 🗺️ The Analytical Journey
