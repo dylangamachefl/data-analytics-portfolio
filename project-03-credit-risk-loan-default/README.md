@@ -43,12 +43,14 @@ This model provides a robust framework for reducing financial risk and improving
 #### Financial Impact Summary
 A comprehensive view of the model's value, from cost breakdown to ROI over time.
  
-*(Note: Use a real image from the project here)*
+<img width="1590" height="1190" alt="image" src="https://github.com/user-attachments/assets/e7ea7435-0c60-4bc4-b711-85aac440c667" />
 
-#### Loan Officer Decision Support Interface (Mockup)
+
+#### Executive Dashboard Interface (Mockup)
 An example of how the model's output, including SHAP-based explanations, can be translated into an actionable tool for end-users.
  
-*(Note: Use a real image from the project here)*
+<img width="1789" height="985" alt="image" src="https://github.com/user-attachments/assets/7734bac3-59b5-427e-88b3-11bda89df0dd" />
+
 
 ---
 
